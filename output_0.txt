@@ -1,0 +1,1144 @@
+❯ git submodule foreach "python ../../../copy_topic_files.py;python run_on_each.py"
+Entering 'libraries/drivers/74hc595'
+adafruit/Adafruit_CircuitPython_74HC595
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ads1x15'
+adafruit/Adafruit_CircuitPython_ADS1x15
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/adt7410'
+adafruit/Adafruit_CircuitPython_ADT7410
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/adxl34x'
+adafruit/Adafruit_CircuitPython_ADXL34x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ahtx0'
+adafruit/Adafruit_CircuitPython_AHTx0
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/am2320'
+adafruit/Adafruit_CircuitPython_AM2320
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/amg88xx'
+adafruit/Adafruit_CircuitPython_AMG88xx
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/apds9960'
+adafruit/Adafruit_CircuitPython_APDS9960
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/as726x'
+adafruit/Adafruit_CircuitPython_AS726x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/as7341'
+adafruit/Adafruit_CircuitPython_AS7341
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/atecc'
+adafruit/Adafruit_CircuitPython_ATECC
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/aw9523'
+adafruit/Adafruit_CircuitPython_AW9523
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bd3491fs'
+adafruit/Adafruit_CircuitPython_BD3491FS
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bh1750'
+adafruit/Adafruit_CircuitPython_BH1750
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bluefruitspi'
+adafruit/Adafruit_CircuitPython_BluefruitSPI
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bme280'
+adafruit/Adafruit_CircuitPython_BME280
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bme680'
+adafruit/Adafruit_CircuitPython_BME680
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bmp280'
+adafruit/Adafruit_CircuitPython_BMP280
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/bmp3xx'
+adafruit/Adafruit_CircuitPython_BMP3XX
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bno055'
+adafruit/Adafruit_CircuitPython_BNO055
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/bno08x'
+adafruit/Adafruit_CircuitPython_BNO08x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/bno08x_rvc'
+adafruit/Adafruit_CircuitPython_BNO08x_RVC
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/cap1188'
+adafruit/Adafruit_CircuitPython_CAP1188
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ccs811'
+adafruit/Adafruit_CircuitPython_CCS811
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/charlcd'
+adafruit/Adafruit_CircuitPython_CharLCD
+topics: ['circuitpython', 'character', 'lcd', 'rgb-led']
+added hacktoberfest
+Entering 'libraries/drivers/circuitplayground'
+adafruit/Adafruit_CircuitPython_CircuitPlayground
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/clue'
+adafruit/Adafruit_CircuitPython_CLUE
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/crickit'
+adafruit/Adafruit_CircuitPython_Crickit
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/dht'
+adafruit/Adafruit_CircuitPython_DHT
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/displayio_sh1106'
+adafruit/Adafruit_CircuitPython_DisplayIO_SH1106
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/displayio_sh1107'
+adafruit/Adafruit_CircuitPython_DisplayIO_SH1107
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/displayio_ssd1305'
+adafruit/Adafruit_CircuitPython_DisplayIO_SSD1305
+topics: ['circuitpython', 'oled', 'oled-display', 'ssd1305', 'displayio', 'monochrome-displays', 'monochrome-oled-displays']
+added hacktoberfest
+Entering 'libraries/drivers/displayio_ssd1306'
+adafruit/Adafruit_CircuitPython_DisplayIO_SSD1306
+topics: ['circuitpython', 'oled', 'oled-display', 'ssd1306', 'displayio', 'monochrome-displays', 'monochrome-oled-displays']
+added hacktoberfest
+Entering 'libraries/drivers/dotstar'
+adafruit/Adafruit_CircuitPython_DotStar
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/dps310'
+adafruit/Adafruit_CircuitPython_DPS310
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/drv2605'
+adafruit/Adafruit_CircuitPython_DRV2605
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/ds1307'
+adafruit/Adafruit_CircuitPython_DS1307
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/ds1841'
+adafruit/Adafruit_CircuitPython_DS1841
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ds18x20'
+adafruit/Adafruit_CircuitPython_DS18X20
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ds2413'
+adafruit/Adafruit_CircuitPython_DS2413
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ds3231'
+adafruit/Adafruit_CircuitPython_DS3231
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/ds3502'
+adafruit/Adafruit_CircuitPython_DS3502
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/dymoscale'
+adafruit/Adafruit_CircuitPython_DymoScale
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/emc2101'
+adafruit/Adafruit_CircuitPython_EMC2101
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/epd'
+adafruit/Adafruit_CircuitPython_EPD
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/esp-atcontrol'
+adafruit/Adafruit_CircuitPython_ESP_ATcontrol
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/esp32spi'
+adafruit/Adafruit_CircuitPython_ESP32SPI
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/fingerprint'
+adafruit/Adafruit_CircuitPython_Fingerprint
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/focaltouch'
+adafruit/Adafruit_CircuitPython_FocalTouch
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/fona'
+adafruit/Adafruit_CircuitPython_FONA
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/fram'
+adafruit/Adafruit_CircuitPython_FRAM
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/fxas21002c'
+adafruit/Adafruit_CircuitPython_FXAS21002C
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/fxos8700'
+adafruit/Adafruit_CircuitPython_FXOS8700
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/gps'
+adafruit/Adafruit_CircuitPython_GPS
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/hcsr04'
+adafruit/Adafruit_CircuitPython_HCSR04
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ht16k33'
+adafruit/Adafruit_CircuitPython_HT16K33
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/hts221'
+adafruit/Adafruit_CircuitPython_HTS221
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/htu21d'
+adafruit/Adafruit_CircuitPython_HTU21D
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/htu31d'
+adafruit/Adafruit_CircuitPython_HTU31D
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/hx8357'
+adafruit/Adafruit_CircuitPython_HX8357
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/icm20x'
+adafruit/Adafruit_CircuitPython_ICM20X
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/il0373'
+adafruit/Adafruit_CircuitPython_IL0373
+topics: ['circuitpython', 'displayio', 'il0373', 'epd', 'epaper']
+added hacktoberfest
+Entering 'libraries/drivers/il0398'
+adafruit/Adafruit_CircuitPython_IL0398
+topics: ['circuitpython', 'displayio', 'epaper', 'epd']
+added hacktoberfest
+Entering 'libraries/drivers/il91874'
+adafruit/Adafruit_CircuitPython_IL91874
+topics: ['circuitpython', 'displayio', 'il91874', 'epd', 'epaper']
+added hacktoberfest
+Entering 'libraries/drivers/ili9341'
+adafruit/Adafruit_CircuitPython_ILI9341
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ina219'
+adafruit/Adafruit_CircuitPython_INA219
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ina260'
+adafruit/Adafruit_CircuitPython_INA260
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/irremote'
+adafruit/Adafruit_CircuitPython_IRRemote
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/is31fl3731'
+adafruit/Adafruit_CircuitPython_IS31FL3731
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/is31fl3741'
+adafruit/Adafruit_CircuitPython_IS31FL3741
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/l3gd20'
+adafruit/Adafruit_CircuitPython_L3GD20
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lc709203f'
+adafruit/Adafruit_CircuitPython_LC709203F
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lidarlite'
+adafruit/Adafruit_CircuitPython_LIDARLite
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lis2mdl'
+adafruit/Adafruit_CircuitPython_LIS2MDL
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lis331'
+adafruit/Adafruit_CircuitPython_LIS331
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lis3dh'
+adafruit/Adafruit_CircuitPython_LIS3DH
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lis3mdl'
+adafruit/Adafruit_CircuitPython_LIS3MDL
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lps2x'
+adafruit/Adafruit_CircuitPython_LPS2X
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lps35hw'
+adafruit/Adafruit_CircuitPython_LPS35HW
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm303'
+adafruit/Adafruit_CircuitPython_LSM303
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm303-accel'
+adafruit/Adafruit_CircuitPython_LSM303_Accel
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm303dlh-mag'
+adafruit/Adafruit_CircuitPython_LSM303DLH_Mag
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm6ds'
+adafruit/Adafruit_CircuitPython_LSM6DS
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm9ds0'
+adafruit/Adafruit_CircuitPython_LSM9DS0
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/lsm9ds1'
+adafruit/Adafruit_CircuitPython_LSM9DS1
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ltr390'
+adafruit/Adafruit_CircuitPython_LTR390
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/matrixkeypad'
+adafruit/Adafruit_CircuitPython_MatrixKeypad
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/max31855'
+adafruit/Adafruit_CircuitPython_MAX31855
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/max31856'
+adafruit/Adafruit_CircuitPython_MAX31856
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/max31865'
+adafruit/Adafruit_CircuitPython_MAX31865
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/max7219'
+adafruit/Adafruit_CircuitPython_MAX7219
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/max9744'
+adafruit/Adafruit_CircuitPython_MAX9744
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp230xx'
+adafruit/Adafruit_CircuitPython_MCP230xx
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp2515'
+adafruit/Adafruit_CircuitPython_MCP2515
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp3xxx'
+adafruit/Adafruit_CircuitPython_MCP3xxx
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp4725'
+adafruit/Adafruit_CircuitPython_MCP4725
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp4728'
+adafruit/Adafruit_CircuitPython_MCP4728
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp9600'
+adafruit/Adafruit_CircuitPython_MCP9600
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mcp9808'
+adafruit/Adafruit_CircuitPython_MCP9808
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/mlx90393'
+adafruit/Adafruit_CircuitPython_MLX90393
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mlx90395'
+adafruit/Adafruit_CircuitPython_MLX90395
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mlx90614'
+adafruit/Adafruit_CircuitPython_MLX90614
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mlx90640'
+adafruit/Adafruit_CircuitPython_MLX90640
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mma8451'
+adafruit/Adafruit_CircuitPython_MMA8451
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/monsterm4sk'
+adafruit/Adafruit_CircuitPython_MONSTERM4SK
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mpl115a2'
+adafruit/Adafruit_CircuitPython_MPL115A2
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mpl3115a2'
+adafruit/Adafruit_CircuitPython_MPL3115A2
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mpr121'
+adafruit/Adafruit_CircuitPython_MPR121
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/mprls'
+adafruit/Adafruit_CircuitPython_MPRLS
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/mpu6050'
+adafruit/Adafruit_CircuitPython_MPU6050
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ms8607'
+adafruit/Adafruit_CircuitPython_MS8607
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/msa301'
+adafruit/Adafruit_CircuitPython_MSA301
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/neopixel'
+adafruit/Adafruit_CircuitPython_NeoPixel
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/neopixel_spi'
+adafruit/Adafruit_CircuitPython_NeoPixel_SPI
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/neotrellis'
+adafruit/Adafruit_CircuitPython_NeoTrellis
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/nunchuk'
+adafruit/Adafruit_CircuitPython_Nunchuk
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ov2640'
+adafruit/Adafruit_CircuitPython_OV2640
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ov7670'
+adafruit/Adafruit_CircuitPython_OV7670
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pca9685'
+adafruit/Adafruit_CircuitPython_PCA9685
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/pcd8544'
+adafruit/Adafruit_CircuitPython_PCD8544
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pcf8523'
+adafruit/Adafruit_CircuitPython_PCF8523
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/pcf8563'
+adafruit/Adafruit_CircuitPython_PCF8563
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/pcf8591'
+adafruit/Adafruit_CircuitPython_PCF8591
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pct2075'
+adafruit/Adafruit_CircuitPython_PCT2075
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pixie'
+adafruit/Adafruit_CircuitPython_Pixie
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pm25'
+adafruit/Adafruit_CircuitPython_PM25
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pn532'
+adafruit/Adafruit_CircuitPython_PN532
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/pyportal'
+adafruit/Adafruit_CircuitPython_PyPortal
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ra8875'
+adafruit/Adafruit_CircuitPython_RA8875
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/rfm69'
+adafruit/Adafruit_CircuitPython_RFM69
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/rfm9x'
+adafruit/Adafruit_CircuitPython_RFM9x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/rgb-display'
+adafruit/Adafruit_CircuitPython_RGB_Display
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/rockblock'
+adafruit/Adafruit_CircuitPython_RockBlock
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/rplidar'
+adafruit/Adafruit_CircuitPython_RPLIDAR
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/scd30'
+adafruit/Adafruit_CircuitPython_SCD30
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/scd4x'
+adafruit/Adafruit_CircuitPython_SCD4X
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sdcard'
+adafruit/Adafruit_CircuitPython_SD
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/seesaw'
+adafruit/Adafruit_CircuitPython_seesaw
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sgp30'
+adafruit/Adafruit_CircuitPython_SGP30
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sgp40'
+adafruit/Adafruit_CircuitPython_SGP40
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sharpmemorydisplay'
+adafruit/Adafruit_CircuitPython_SharpMemoryDisplay
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sht31'
+adafruit/Adafruit_CircuitPython_SHT31D
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/sht4x'
+adafruit/Adafruit_CircuitPython_SHT4x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/shtc3'
+adafruit/Adafruit_CircuitPython_SHTC3
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/si4713'
+adafruit/Adafruit_CircuitPython_SI4713
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/si5351'
+adafruit/Adafruit_CircuitPython_SI5351
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/si7021'
+adafruit/Adafruit_CircuitPython_SI7021
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1305'
+adafruit/Adafruit_CircuitPython_SSD1305
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ssd1306'
+adafruit/Adafruit_CircuitPython_SSD1306
+topics: ['circuitpython', 'ssd1306', 'monochrome-oled-displays', 'oled-display-ssd1306', 'oled-display']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1322'
+adafruit/Adafruit_CircuitPython_SSD1322
+topics: ['circuitpython', 'displayio', 'grayscale-display', 'oled-display', 'ssd1322']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1325'
+adafruit/Adafruit_CircuitPython_SSD1325
+topics: ['circuitpython', 'displayio', 'ssd1325', 'oled-display', 'grayscale-display']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1327'
+adafruit/Adafruit_CircuitPython_SSD1327
+topics: ['circuitpython', 'displayio', 'ssd1327', 'oled-display', 'grayscale-display']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1331'
+adafruit/Adafruit_CircuitPython_SSD1331
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ssd1351'
+adafruit/Adafruit_CircuitPython_SSD1351
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ssd1608'
+adafruit/Adafruit_CircuitPython_SSD1608
+topics: ['circuitpython', 'displayio', 'ssd1608', 'epd', 'epaper']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1675'
+adafruit/Adafruit_CircuitPython_SSD1675
+topics: ['circuitpython', 'displayio', 'ssd1675', 'epd', 'epaper']
+added hacktoberfest
+Entering 'libraries/drivers/ssd1680'
+adafruit/Adafruit_CircuitPython_SSD1680
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ssd1681'
+adafruit/Adafruit_CircuitPython_SSD1681
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/st7565'
+adafruit/Adafruit_CircuitPython_ST7565
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/st7735'
+adafruit/Adafruit_CircuitPython_ST7735
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/st7735r'
+adafruit/Adafruit_CircuitPython_ST7735R
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/st7789'
+adafruit/Adafruit_CircuitPython_ST7789
+topics: ['circuitpython', 'displayio', 'st7789', 'st7789-display-driver', 'tft-display']
+added hacktoberfest
+Entering 'libraries/drivers/stmpe610'
+adafruit/Adafruit_CircuitPython_STMPE610
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tc74'
+adafruit/Adafruit_CircuitPython_TC74
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tca9584a'
+adafruit/Adafruit_CircuitPython_TCA9548A
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tcs34725'
+adafruit/Adafruit_CircuitPython_TCS34725
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tfmini'
+adafruit/Adafruit_CircuitPython_TFmini
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/thermal_printer'
+adafruit/Adafruit_CircuitPython_Thermal_Printer
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/thermistor'
+adafruit/Adafruit_CircuitPython_Thermistor
+topics: ['circuitpython', 'temperature']
+added hacktoberfest
+Entering 'libraries/drivers/tla202x'
+adafruit/Adafruit_CircuitPython_TLA202x
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tlc5947'
+adafruit/Adafruit_CircuitPython_TLC5947
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tlc59711'
+adafruit/Adafruit_CircuitPython_TLC59711
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tlv493d'
+adafruit/Adafruit_CircuitPython_TLV493D
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tmp006'
+adafruit/Adafruit_CircuitPython_TMP006
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tmp007'
+adafruit/Adafruit_CircuitPython_TMP007
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tmp117'
+adafruit/Adafruit_CircuitPython_TMP117
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/touchscreen'
+adafruit/Adafruit_CircuitPython_Touchscreen
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tpa2016'
+adafruit/Adafruit_CircuitPython_TPA2016
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/trellis'
+adafruit/Adafruit_CircuitPython_Trellis
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/trellism4'
+adafruit/Adafruit_CircuitPython_TrellisM4
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/tsl2561'
+adafruit/Adafruit_CircuitPython_TSL2561
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/drivers/tsl2591'
+adafruit/Adafruit_CircuitPython_TSL2591
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/uc8151d'
+adafruit/Adafruit_CircuitPython_UC8151D
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/us100'
+adafruit/Adafruit_CircuitPython_US100
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vc0706'
+adafruit/Adafruit_CircuitPython_VC0706
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vcnl4010'
+adafruit/Adafruit_CircuitPython_VCNL4010
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vcnl4040'
+adafruit/Adafruit_CircuitPython_VCNL4040
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/veml6070'
+adafruit/Adafruit_CircuitPython_VEML6070
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/veml6075'
+adafruit/Adafruit_CircuitPython_VEML6075
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/veml7700'
+adafruit/Adafruit_CircuitPython_VEML7700
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vl53l0x'
+adafruit/Adafruit_CircuitPython_VL53L0X
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vl6180x'
+adafruit/Adafruit_CircuitPython_VL6180X
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/vs1053'
+adafruit/Adafruit_CircuitPython_VS1053
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/wiznet5k'
+adafruit/Adafruit_CircuitPython_Wiznet5k
+topics: []
+added hacktoberfest
+Entering 'libraries/drivers/ws2801'
+adafruit/Adafruit_CircuitPython_WS2801
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/AWS_IOT'
+adafruit/Adafruit_CircuitPython_AWS_IOT
+topics: ['mqtt', 'aws-iot']
+added hacktoberfest
+Entering 'libraries/helpers/GC_IOT_Core'
+adafruit/Adafruit_CircuitPython_GC_IOT_Core
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/adafruitio'
+adafruit/Adafruit_CircuitPython_AdafruitIO
+topics: ['circuitpython', 'adafruit-io', 'rest-client', 'mqtt-client', 'iot']
+added hacktoberfest
+Entering 'libraries/helpers/airlift'
+adafruit/Adafruit_CircuitPython_AirLift
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/avrprog'
+adafruit/Adafruit_CircuitPython_AVRprog
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/azure'
+adafruit/Adafruit_CircuitPython_AzureIoT
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/binascii'
+adafruit/Adafruit_CircuitPython_binascii
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/bitbangio'
+adafruit/Adafruit_CircuitPython_BitbangIO
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/bitmap-font'
+adafruit/Adafruit_CircuitPython_Bitmap_Font
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/bitmapsaver'
+adafruit/Adafruit_CircuitPython_BitmapSaver
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble'
+adafruit/Adafruit_CircuitPython_BLE
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble-broadcastnet'
+adafruit/Adafruit_CircuitPython_BLE_BroadcastNet
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble-radio'
+adafruit/Adafruit_CircuitPython_BLE_Radio
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_adafruit'
+adafruit/Adafruit_CircuitPython_BLE_Adafruit
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_apple_media'
+adafruit/Adafruit_CircuitPython_BLE_Apple_Media
+topics: ['circuitpython', 'ble', 'apple', 'media', 'media-service']
+added hacktoberfest
+Entering 'libraries/helpers/ble_apple_notification_center'
+adafruit/Adafruit_CircuitPython_BLE_Apple_Notification_Center
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_berrymed_pulse_oximeter'
+adafruit/Adafruit_CircuitPython_BLE_BerryMed_Pulse_Oximeter
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_cycling_speed_and_cadence'
+adafruit/Adafruit_CircuitPython_BLE_Cycling_Speed_and_Cadence
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_eddystone'
+adafruit/Adafruit_CircuitPython_BLE_Eddystone
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_heart_rate'
+adafruit/Adafruit_CircuitPython_BLE_Heart_Rate
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_ibbq'
+adafruit/Adafruit_CircuitPython_BLE_iBBQ
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_lywsd03mmc'
+adafruit/Adafruit_CircuitPython_BLE_LYWSD03MMC
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_magic_light'
+adafruit/Adafruit_CircuitPython_BLE_Magic_Light
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ble_midi'
+adafruit/Adafruit_CircuitPython_BLE_MIDI
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/bluefruitconnect'
+adafruit/Adafruit_CircuitPython_BluefruitConnect
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/boardtest'
+adafruit/Adafruit_CircuitPython_BoardTest
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/bus_device'
+adafruit/Adafruit_CircuitPython_BusDevice
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/helpers/colorsys'
+adafruit/Adafruit_CircuitPython_Colorsys
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/cursorcontrol'
+adafruit/Adafruit_CircuitPython_CursorControl
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/dash_display'
+adafruit/Adafruit_CircuitPython_Dash_Display
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/datetime'
+adafruit/Adafruit_CircuitPython_datetime
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/debouncer'
+adafruit/Adafruit_CircuitPython_Debouncer
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/debug-i2c'
+adafruit/Adafruit_CircuitPython_Debug_I2C
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/display-button'
+adafruit/Adafruit_CircuitPython_Display_Button
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/display-shapes'
+adafruit/Adafruit_CircuitPython_Display_Shapes
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/display-text'
+adafruit/Adafruit_CircuitPython_Display_Text
+topics: ['hacktoberfest']
+Entering 'libraries/helpers/display_notification'
+adafruit/Adafruit_CircuitPython_Display_Notification
+topics: ['circuitpython', 'displayio']
+added hacktoberfest
+Entering 'libraries/helpers/displayio_layout'
+adafruit/Adafruit_CircuitPython_DisplayIO_Layout
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ducky'
+adafruit/Adafruit_CircuitPython_Ducky
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/fakerequests'
+adafruit/Adafruit_CircuitPython_FakeRequests
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/fancyled'
+adafruit/Adafruit_CircuitPython_FancyLED
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/featherwing'
+adafruit/Adafruit_CircuitPython_FeatherWing
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/framebuf'
+adafruit/Adafruit_CircuitPython_framebuf
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/funhouse'
+adafruit/Adafruit_CircuitPython_FunHouse
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/gizmo'
+adafruit/Adafruit_CircuitPython_Gizmo
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/hashlib'
+adafruit/Adafruit_CircuitPython_hashlib
+topics: ['hashlib', 'sha1', 'sha224', 'sha384', 'sha512']
+added hacktoberfest
+Entering 'libraries/helpers/hid'
+adafruit/Adafruit_CircuitPython_HID
+topics: ['circuitpython', 'accessibility', 'usb', 'usb-hid']
+added hacktoberfest
+Entering 'libraries/helpers/hue'
+adafruit/Adafruit_CircuitPython_Hue
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/imageload'
+adafruit/Adafruit_CircuitPython_ImageLoad
+topics: ['circuitpython', 'bitmap', 'graphics']
+added hacktoberfest
+Entering 'libraries/helpers/itertools'
+adafruit/Adafruit_CircuitPython_IterTools
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/jwt'
+adafruit/Adafruit_CircuitPython_JWT
+topics: ['jwt', 'jws']
+added hacktoberfest
+Entering 'libraries/helpers/led-animation'
+adafruit/Adafruit_CircuitPython_LED_Animation
+topics: ['circuitpython', 'led', 'animation']
+added hacktoberfest
+Entering 'libraries/helpers/lifx'
+adafruit/Adafruit_CircuitPython_LIFX
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/logging'
+adafruit/Adafruit_CircuitPython_Logging
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/macropad'
+adafruit/Adafruit_CircuitPython_MacroPad
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/magtag'
+adafruit/Adafruit_CircuitPython_MagTag
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/matrixportal'
+adafruit/Adafruit_CircuitPython_MatrixPortal
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/midi'
+adafruit/Adafruit_CircuitPython_MIDI
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/miniesptool'
+adafruit/Adafruit_CircuitPython_miniesptool
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/minimqtt'
+adafruit/Adafruit_CircuitPython_MiniMQTT
+topics: ['mqtt-client', 'circuitpython', 'mqtt']
+added hacktoberfest
+Entering 'libraries/helpers/miniqr'
+adafruit/Adafruit_CircuitPython_miniQR
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/motor'
+adafruit/Adafruit_CircuitPython_Motor
+topics: ['circuitpython', 'servo', 'servo-motor', 'continuous-servo', 'dc-motor', 'stepper-motor']
+added hacktoberfest
+Entering 'libraries/helpers/motorkit'
+adafruit/Adafruit_CircuitPython_MotorKit
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/neokey'
+adafruit/Adafruit_CircuitPython_NeoKey
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ntp'
+adafruit/Adafruit_CircuitPython_NTP
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/oauth_2'
+adafruit/Adafruit_CircuitPython_OAuth2
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/onewire'
+adafruit/Adafruit_CircuitPython_OneWire
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pioasm'
+adafruit/Adafruit_CircuitPython_PIOASM
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pixel_framebuf'
+adafruit/Adafruit_CircuitPython_Pixel_Framebuf
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pixelbuf'
+adafruit/Adafruit_CircuitPython_Pixelbuf
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/portalbase'
+adafruit/Adafruit_CircuitPython_PortalBase
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/progressbar'
+adafruit/Adafruit_CircuitPython_ProgressBar
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pybadger'
+adafruit/Adafruit_CircuitPython_PyBadger
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pyoa'
+adafruit/Adafruit_CircuitPython_PYOA
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/pypixelbuf'
+adafruit/Adafruit_CircuitPython_Pypixelbuf
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/radial_controller'
+adafruit/Adafruit_CircuitPython_Radial_Controller
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/register'
+adafruit/Adafruit_CircuitPython_Register
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/helpers/requests'
+adafruit/Adafruit_CircuitPython_Requests
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/rgbled'
+adafruit/Adafruit_CircuitPython_RGBLED
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/rsa'
+adafruit/Adafruit_CircuitPython_RSA
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/rtttl'
+adafruit/Adafruit_CircuitPython_RTTTL
+topics: ['circuitpython', 'music', 'rtttl', 'ringtone', 'audio', 'sound']
+added hacktoberfest
+Entering 'libraries/helpers/servokit'
+adafruit/Adafruit_CircuitPython_ServoKit
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/simple-text-display'
+adafruit/Adafruit_CircuitPython_Simple_Text_Display
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/simpleio'
+adafruit/Adafruit_CircuitPython_SimpleIO
+topics: ['circuitpython']
+added hacktoberfest
+Entering 'libraries/helpers/simplemath'
+adafruit/Adafruit_CircuitPython_SimpleMath
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/slideshow'
+adafruit/Adafruit_CircuitPython_Slideshow
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/ticks'
+adafruit/Adafruit_CircuitPython_Ticks
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/tinylora'
+adafruit/Adafruit_CircuitPython_TinyLoRa
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/turtle'
+adafruit/Adafruit_CircuitPython_turtle
+topics: []
+added hacktoberfest
+Entering 'libraries/helpers/waveform'
+adafruit/Adafruit_CircuitPython_Waveform
+topics: ['circuitpython', 'sound', 'audio', 'waveform']
+added hacktoberfest
+Entering 'libraries/helpers/wsgi'
+adafruit/Adafruit_CircuitPython_WSGI
+topics: []
+added hacktoberfest
